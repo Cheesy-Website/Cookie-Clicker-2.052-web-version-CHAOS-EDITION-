@@ -33,7 +33,7 @@ http://orteil.dashnet.org/cookieclicker/img/bgMoney.jpg
 http://orteil.dashnet.org/cookieclicker/img/bgMoneyChart.jpg
 http://orteil.dashnet.org/cookieclicker/img/bgPaint.jpg
 http://orteil.dashnet.org/cookieclicker/img/bgPink.jpg
-http://orteil.dashnet.org/cookieclicker/img/bgPurple.jpg
+https://raw.githubusercontent.com/STANTHECHEESEMAN/Cookie-Clicker-2.052-web-version/main/img/bgpurple.jpg
 http://orteil.dashnet.org/cookieclicker/img/bgRed.jpg
 http://orteil.dashnet.org/cookieclicker/img/bgSilver.jpg
 http://orteil.dashnet.org/cookieclicker/img/bgSky.jpg

@@ -13,8 +13,6 @@ http://orteil.dashnet.org
 /*=====================================================================================
 MISC HELPER FUNCTIONS
 =======================================================================================*/
-game.loadmod('https://cdn.jsdelivr.net/gh/klattmose/klattmose.github.io@master/CookieClicker/KlattmoseUtilities.js')
-
 function l(what) {return document.getElementById(what);}
 function choose(arr) {return arr[Math.floor(Math.random()*arr.length)];}
 
@@ -1047,7 +1045,7 @@ var Game={};
 	Game.modHooks={};
 	Game.modHooksNames=['logic','draw','reset','reincarnate','ticker','cps','cookiesPerClick','click','create','check'];
 	for (var i=0;i<Game.modHooksNames.length;i++){Game.modHooks[Game.modHooksNames[i]]=[];}
-	Game.registerMod=function(id,mod)
+	Game.registerMod=function(https://cdn.jsdelivr.net/gh/klattmose/klattmose.github.io@master/CookieClicker/KlattmoseUtilities.js)
 	{
 		id=id.replace(/\W+/g,' ');
 		if (id=='META') return false;
@@ -1066,7 +1064,7 @@ var Game={};
 			mod.init=0;
 		}
 	}
-	Game.launchMods=function()
+	Game.launchMods=function(https://cdn.jsdelivr.net/gh/klattmose/klattmose.github.io@master/CookieClicker/KlattmoseUtilities.js)
 	{
 		if (Game.brokenMods.length>0)
 		{

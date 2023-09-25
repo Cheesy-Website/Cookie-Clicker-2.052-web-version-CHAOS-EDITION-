@@ -1045,7 +1045,7 @@ var Game={};
 	Game.modHooks={};
 	Game.modHooksNames=['logic','draw','reset','reincarnate','ticker','cps','cookiesPerClick','click','create','check'];
 	for (var i=0;i<Game.modHooksNames.length;i++){Game.modHooks[Game.modHooksNames[i]]=[];}
-	Game.registerMod=function(https://cdn.jsdelivr.net/gh/klattmose/klattmose.github.io@master/CookieClicker/KlattmoseUtilities.js)
+	Game.registerMod=function(id,mod)
 	{
 		id=id.replace(/\W+/g,' ');
 		if (id=='META') return false;
@@ -1064,7 +1064,7 @@ var Game={};
 			mod.init=0;
 		}
 	}
-	Game.launchMods=function(https://cdn.jsdelivr.net/gh/klattmose/klattmose.github.io@master/CookieClicker/KlattmoseUtilities.js)
+	Game.launchMods=function()
 	{
 		if (Game.brokenMods.length>0)
 		{

@@ -15,7 +15,6 @@ MISC HELPER FUNCTIONS
 =======================================================================================*/
 function l(what) {return document.getElementById(what);}
 function choose(arr) {return arr[Math.floor(Math.random()*arr.length)];}
-function {Game.LoadMod('https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16');}());
 
 function escapeRegExp(str){return str.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&");}
 function replaceAll(find,replace,str){return str.replace(new RegExp(escapeRegExp(find),'g'),replace);}

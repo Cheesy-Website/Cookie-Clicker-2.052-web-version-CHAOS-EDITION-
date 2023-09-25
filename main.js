@@ -13,6 +13,8 @@ http://orteil.dashnet.org
 /*=====================================================================================
 MISC HELPER FUNCTIONS
 =======================================================================================*/
+game.loadmod('https://cdn.jsdelivr.net/gh/klattmose/klattmose.github.io@master/CookieClicker/KlattmoseUtilities.js')
+
 function l(what) {return document.getElementById(what);}
 function choose(arr) {return arr[Math.floor(Math.random()*arr.length)];}
 

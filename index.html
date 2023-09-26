@@ -83,12 +83,12 @@ var App=typeof App==='undefined'?0:App;
 		<div><a class="purplelink" href="https://www.youtube.com/channel/UCApBZpO0Ezw9eRc4SbRsbgA" target="_blank" id="topbarIGM">My youtube</a></div>
 		<div style="float:right;position:relative;"><div id="tinyglobe" style="position:absolute;top:-4px;width:22px;height:22px;background:url(img/tinyglobeSheet.gif);right:4px;top:4px;pointer-events:none;"></div><a id="changeLanguage" style="font-variant:small-caps;padding-right:20px;" onmouseover="INTERVAL_TINYGLOBE=setInterval(function(){var tinyglobe=document.getElementById('tinyglobe');tinyglobe.style.backgroundPosition=(parseInt(tinyglobe.style.backgroundPosition)-22)+'px';},30);" onmouseout="clearInterval(INTERVAL_TINYGLOBE);">Change language</a><script>document.getElementById('tinyglobe').style.backgroundPosition=(-[0,19,27][Math.floor(Math.random()*3)]*22)+'px';</script></div>
 		<div id="links" class="hoverer">
-			Other versions
+			Addons
 			<div class="hoverable">
-				<a href="../" target="_blank" id="linkVersionLive">Klattmose Utilities</a>
-				<a href="beta" target="_blank" id="linkVersionBeta">More Addons</a>
+				<a href="javascript: (function () {Game.LoadMod('https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js');}());" target="_blank" id="linkVersionLive">Cookie Monster</a>
+				<a href="javascript: (function () {Game.LoadMod('https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16');}());" target="_blank" id="linkVersionBeta">Klattmose Utilities</a>
 				<a href="//orteil.dashnet.org/cookieclicker/v10466" target="_blank" id="linkVersionOld">v. 1.0466</a>
-				<a href="https://sushi8756.github.io/Cookie-Clicker-Guide/" target="_blank">Addons</a>
+				<a href="https://sushi8756.github.io/Cookie-Clicker-Guide/" target="_blank">More Addons</a>
 			</div>
 		</div>
 	</div>

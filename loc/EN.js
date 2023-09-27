@@ -224,7 +224,7 @@ AddLanguage('EN','english',{
 	"Tea milk": "/",
 	"Coconut milk": "/",
 	"Cherry milk": "/",
-	"Soy milk": "/",
+	"Soy milk": "BEANS",
 	"Spiced milk": "/",
 	"Maple milk": "/",
 	"Mint milk": "/",

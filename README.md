@@ -2,7 +2,14 @@
 
 https://stanthecheeseman.github.io/Cookie-Clicker-2.052-web-version/
 
-# Use purple background and soy milk for a secret 
+# NOW WITH THE ADDITION OF BEANS
+
+
+# THE ULTIMATE COOKIE CLICKER NOW WITH MOD LOADER AT BOTTOM OF SHOP AND EASY MODS AT TOP OF SHOP ALSO BETTER COOKIE ICON BEAN BACKGROUND AND BEAN MILK
+
+
+
+# AND ITS STILL A WIP
 
 
 

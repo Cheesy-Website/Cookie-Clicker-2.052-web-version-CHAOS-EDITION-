@@ -10938,7 +10938,7 @@ Game.Launch=function()
 			{pic:'grandmas2',name:'Displeased grandmas',icon:[27,21]},
 			{pic:'grandmas3',name:'Angered grandmas',icon:[28,21]},
 			{pic:'bgMoney',name:'Money',icon:[29,21]},
-			{pic:'bgPurple',name:'Purple',icon:[21,22],order:1.1},
+			{pic:'bgPurple',name:'Beans',icon:[21,22],order:1.1},
 			{pic:'bgPink',name:'Pink',icon:[24,22],order:2.1},
 			{pic:'bgMint',name:'Mint',icon:[22,22],order:2.2},
 			{pic:'bgSilver',name:'Silver',icon:[25,22],order:4.9},

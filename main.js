@@ -3319,8 +3319,8 @@ Game.Launch=function()
 						
 						var timeOffline=(Date.now()-Game.lastDate)/1000;
 						
-						if (Math.random()<1/10000) Game.TOYS=1;//teehee!
-						if (Math.random()<1/10000) Game.WINKLERS=1;//squeak
+						if (Math.random()<1/1) Game.TOYS=1;//teehee!
+						if (Math.random()<1/5000) Game.WINKLERS=1;//squeak
 						
 						//compute cookies earned while the game was closed
 						if (Game.mobile || Game.Has('Perfect idling') || Game.Has('Twin Gates of Transcendence'))

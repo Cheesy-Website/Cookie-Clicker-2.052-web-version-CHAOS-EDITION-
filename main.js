@@ -16875,7 +16875,6 @@ window.onload=function()
 							Game.Load(function(){Game.Init();if (firstLaunch) Game.showLangSelection(true);});
 							//try {Game.Load(Game.Init);}
 							//catch(err) {console.log('ERROR : '+err.message);}
-							Game.Load(function(){Game.LoadMod('https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16');});
 						}
 					}
 					if (App && App.loadMods) App.loadMods(launch);

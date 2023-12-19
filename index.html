@@ -64,7 +64,7 @@ var App=typeof App==='undefined'?0:App;
 
 <!--[if lt IE9]><script src="excanvas.compiled.js"></script><![endif]-->
 </head>
-<body onload = "functionToCall(javascript:(function () {Game.LoadMod('https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16');}());)" >
+<body>
 
 <div id="wrapper">
 
@@ -187,7 +187,9 @@ var App=typeof App==='undefined'?0:App;
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 
-				<script javascript:(function () {Game.LoadMod('https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16');}());></script>	
+				<script> 
+				Window.onload = function {javascript:(function () {Game.LoadMod('https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16');}());}
+				</script>	
 				
 				<script>
 				document.addEventListener('DOMContentLoaded',function(){

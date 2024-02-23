@@ -8,7 +8,13 @@
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
 
-<script javascript:(function () {Game.LoadMod('https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16');}());)></script>
+    <script>
+        window.onload = function() {
+            var script = document.createElement('script');
+            script.src = 'https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js?v=2.16';
+            document.head.appendChild(script);
+        };
+    </script>
 
 <!--<link href="https://fonts.googleapis.com/css?family=Kavoon&subset=latin,latin-ext" rel="stylesheet" type="text/css">-->
 <link href='https://fonts.googleapis.com/css?family=Merriweather:900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>

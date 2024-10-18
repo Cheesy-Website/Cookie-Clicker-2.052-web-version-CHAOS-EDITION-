@@ -10929,8 +10929,8 @@ Game.Launch=function()
 		
 		Game.AllBGs=[
 			{pic:'bgBlue',name:'Automatic',icon:[0,7]},
-			{pic:'bgBlue',name:'Blue',icon:[21,21]},
-			{pic:'bgRed',name:'Red',icon:[22,21]},
+			{pic:'bgBlue',name:'Galaxy',icon:[21,21]},
+			{pic:'bgRed',name:'Nicolas Cage',icon:[22,21]},
 			{pic:'bgWhite',name:'White',icon:[23,21]},
 			{pic:'bgBlack',name:'Black',icon:[24,21]},
 			{pic:'bgGold',name:'Gold',icon:[25,21]},

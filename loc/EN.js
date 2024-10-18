@@ -211,7 +211,7 @@ AddLanguage('EN','english',{
 	"Blueberry milk": "/",
 	"Strawberry milk": "/",
 	"Vanilla milk": "/",
-	"Zebra milk": "/",
+	"Zebra milk": "Galaxy",
 	"Cosmic milk": "/",
 	"Flaming milk": "/",
 	"Sanguine milk": "/",

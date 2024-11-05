@@ -9,7 +9,7 @@ https://stanthecheeseman.github.io/Cookie-Clicker-2.052-web-version-CHAOS-EDITIO
 
 
 
-# AND ITS STILL A WIP
+# CHEESE
 
 
 
